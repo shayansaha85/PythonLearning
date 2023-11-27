@@ -1,0 +1,20 @@
+100-200
+dhori, dam 187. taar nikotborti boro prime number : 191
+tarar jugfol --> 11
+discount = 11%
+output = 187 - 187*0.11 = 2 digit obdhi print korum
+
+201-500
+dhori, dam 500. taar nikotborti choto prime number : 499
+tarar jugfol --> 22
+discount = 22%
+output = 500 - 500*0.22 = 2 digit obdhi print korum
+
+501takar beshii
+dhori, dam 1873. tar modhhe prime number : 7,3
+tarar jugfol = 10
+discount = 10%
+output = 1873 - 1873*0.1 = 2 digit obdhi print korum
+
+0 - 100 :
+Output = "Ei shaari bhadra pore"
