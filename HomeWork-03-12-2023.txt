@@ -1,0 +1,49 @@
+Ekta list ami dimu : [2,4,5,3,8,10,9]. Ekta integer user input hoibo (for example : 13)
+amrar bair korte lagbo je ei list e emon koyta pair ase, jarar addition 13 hoy.
+
+input = 13
+
+[2,4,5,3,8,10,9]
+
+4,9
+5,8
+3,10
+
+OUTPUT : 3
+
+
+======
+
+MORSE CODE PROBLEM
+>>> HINT : use dictionary for storing the pairs <<<
+Tore ami diya dilam ei data ti :
+A: .-
+B: -...
+C: -.-.
+D: -..
+E: .
+F: ..-.
+G: --.
+H: ....
+I: ..
+J: .---
+K: -.-
+L: .-..
+M: --
+N: -.
+O: ---
+P: .--.
+Q: --.-
+R: .-.
+S: ...
+T: -
+U: ..-
+V: ...-
+W: .--
+X: -..-
+Y: -.--
+Z: --..
+
+
+Ebar,ami input dimu ekta naam. For example : TANMOY,
+OUTPUT : - .- -. -- --- -.-- 
